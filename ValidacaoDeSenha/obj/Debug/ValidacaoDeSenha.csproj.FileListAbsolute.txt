@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\ValidacaoDeSenha.exe.config
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\ValidacaoDeSenha.exe
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\ValidacaoDeSenha.pdb
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\ValidacaoDeSenha.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\ValidacaoDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\ValidacaoDeSenha.exe
+C:\Users\mauri\source\repos\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\ValidacaoDeSenha.pdb
